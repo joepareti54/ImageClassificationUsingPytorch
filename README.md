@@ -7,4 +7,6 @@ This is an image classification exercise using PyTorch. The model uses a pre-tra
  
 The accuracy measured on the test set was up to 82% 
 
- 
+The training data in a g-zipped tar file are avialable at: https://drive.google.com/file/d/1NwI-FT0EG6nZ-cTU3iKeo06OGpPs8H36/view?usp=sharing
+
+The test data in a g-zipped tar file are avialable at: https://drive.google.com/file/d/1ziDZ_nxB2Qk4k2lJZ0kDf0VItR9MYGfy/view?usp=sharing
